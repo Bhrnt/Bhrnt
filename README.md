@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Bhrnt
+- 👀 I’m interested in Computer Programming and Graphics design ...
+- 🌱 I’m currently learning web developement ...
+- 📫 How to reach me on facebook just search my name...
+
+<!---
+Bhrnt/Bhrnt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
